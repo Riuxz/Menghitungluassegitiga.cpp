@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+
+int main(){
+int a, t, L;
+cout << "Menghitung Luas Segitiga \n";
+cout<< "Masukan Alas;  ";
+cin >>a ;
+cout << "MasukanTinggi:  ";
+cin >>t ;
+L=0.5*a*t ;
+cout<< "Hasil Luas Sehitiga adalah: "<<L<<endl; }
